@@ -1,1 +1,1 @@
-
+The categorizing(clustering) of words as positive, negative and neutral can be visulaized by uploading 'vecs.tsv' and 'meta.tsv' files to projector.tensorflow.org.
